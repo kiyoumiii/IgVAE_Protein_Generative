@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  6 13:54:40 2022
-
-@author: hzx
-"""
-
 
 import os
 import glob

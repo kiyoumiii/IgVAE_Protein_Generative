@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  5 16:55:10 2022
-
-@author: hzx
-"""
-
-
 from math import perm
 import tensorflow as tf
 from tensorflow import keras

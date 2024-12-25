@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  7 12:40:49 2022
-
-@author: hzx
-"""
-
 
 import numpy as np
 import tensorflow as tf

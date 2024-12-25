@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  6 21:36:48 2022
-
-@author: huzongxiang
-"""
-
 
 from doctest import OutputChecker
 import tensorflow as tf

@@ -1,10 +1,3 @@
-"""
-Created on Thu Jul  6 11:27:52 2022
-
-@author: hzx
-"""
-
-
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras

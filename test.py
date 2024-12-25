@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  6 11:27:52 2022
-
-@author: hzx
-"""
-
 import tensorflow as tf
 from tensorflow import keras
 from model import VAE

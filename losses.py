@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  6 16:34:58 2022
-
-@author: hzx
-"""
-
 
 #from tensorflow.keras import backend as K
 from keras import backend as K
